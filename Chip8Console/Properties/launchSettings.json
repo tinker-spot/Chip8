@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Chip8Console": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Mark\\Downloads\\chip8\\Keypad Test.ch8\""
+    }
+  }
+}
